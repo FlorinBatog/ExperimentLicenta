@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form input{
+    margin: 5% 40%;
+}
+form button{
+    margin: 0%  45%;
+}
